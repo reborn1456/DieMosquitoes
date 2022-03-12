@@ -30,3 +30,31 @@
 *.exe
 *.out
 *.app
+
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+Debug\スケルトンプログラム.tlog\CL.command.1.tlog
+Debug\スケルトンプログラム.tlog\CL.read.1.tlog
+Debug\スケルトンプログラム.tlog\CL.write.1.tlog
+Debug\スケルトンプログラム.tlog\link.command.1.tlog
+Debug\スケルトンプログラム.tlog\link.read.1.tlog
+Debug\スケルトンプログラム.tlog\link.write.1.tlog
+Debug\main.obj
+Debug\vc141.idb
+Debug\vc141.pdb
+Debug\スケルトンプログラム.pdb
