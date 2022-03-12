@@ -1,0 +1,33 @@
+﻿  main.cpp
+e:\documents\school work\2019 - 2020\ゲーム開発\1106046 1年前期 ー 個人製作\2019 summer holiday work\main.cpp(174): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+e:\documents\school work\2019 - 2020\ゲーム開発\1106046 1年前期 ー 個人製作\2019 summer holiday work\main.cpp(363): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+e:\documents\school work\2019 - 2020\ゲーム開発\1106046 1年前期 ー 個人製作\2019 summer holiday work\main.cpp(365): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+e:\documents\school work\2019 - 2020\ゲーム開発\1106046 1年前期 ー 個人製作\2019 summer holiday work\main.cpp(366): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+e:\documents\school work\2019 - 2020\ゲーム開発\1106046 1年前期 ー 個人製作\2019 summer holiday work\main.cpp(394): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+e:\documents\school work\2019 - 2020\ゲーム開発\1106046 1年前期 ー 個人製作\2019 summer holiday work\main.cpp(396): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+e:\documents\school work\2019 - 2020\ゲーム開発\1106046 1年前期 ー 個人製作\2019 summer holiday work\main.cpp(397): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+e:\documents\school work\2019 - 2020\ゲーム開発\1106046 1年前期 ー 個人製作\2019 summer holiday work\main.cpp(425): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+e:\documents\school work\2019 - 2020\ゲーム開発\1106046 1年前期 ー 個人製作\2019 summer holiday work\main.cpp(427): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+e:\documents\school work\2019 - 2020\ゲーム開発\1106046 1年前期 ー 個人製作\2019 summer holiday work\main.cpp(428): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+e:\documents\school work\2019 - 2020\ゲーム開発\1106046 1年前期 ー 個人製作\2019 summer holiday work\main.cpp(457): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+e:\documents\school work\2019 - 2020\ゲーム開発\1106046 1年前期 ー 個人製作\2019 summer holiday work\main.cpp(458): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+e:\documents\school work\2019 - 2020\ゲーム開発\1106046 1年前期 ー 個人製作\2019 summer holiday work\main.cpp(468): warning C4244: '引数': 'float' から 'UINT' への変換です。データが失われる可能性があります。
+e:\documents\school work\2019 - 2020\ゲーム開発\1106046 1年前期 ー 個人製作\2019 summer holiday work\main.cpp(488): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+e:\documents\school work\2019 - 2020\ゲーム開発\1106046 1年前期 ー 個人製作\2019 summer holiday work\main.cpp(489): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+e:\documents\school work\2019 - 2020\ゲーム開発\1106046 1年前期 ー 個人製作\2019 summer holiday work\main.cpp(499): warning C4244: '引数': 'float' から 'UINT' への変換です。データが失われる可能性があります。
+e:\documents\school work\2019 - 2020\ゲーム開発\1106046 1年前期 ー 個人製作\2019 summer holiday work\main.cpp(519): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+e:\documents\school work\2019 - 2020\ゲーム開発\1106046 1年前期 ー 個人製作\2019 summer holiday work\main.cpp(520): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+e:\documents\school work\2019 - 2020\ゲーム開発\1106046 1年前期 ー 個人製作\2019 summer holiday work\main.cpp(530): warning C4244: '引数': 'float' から 'UINT' への変換です。データが失われる可能性があります。
+e:\documents\school work\2019 - 2020\ゲーム開発\1106046 1年前期 ー 個人製作\2019 summer holiday work\main.cpp(628): warning C4838: 'double' から 'LONG' への変換には縮小変換が必要です
+e:\documents\school work\2019 - 2020\ゲーム開発\1106046 1年前期 ー 個人製作\2019 summer holiday work\main.cpp(628): warning C4244: '初期化中': 'double' から 'LONG' への変換です。データが失われる可能性があります。
+e:\documents\school work\2019 - 2020\ゲーム開発\1106046 1年前期 ー 個人製作\2019 summer holiday work\main.cpp(660): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\time.h(505): note: 'localtime' の宣言を確認してください
+e:\documents\school work\2019 - 2020\ゲーム開発\1106046 1年前期 ー 個人製作\2019 summer holiday work\main.cpp(705): warning C4244: '=': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+e:\documents\school work\2019 - 2020\ゲーム開発\1106046 1年前期 ー 個人製作\2019 summer holiday work\main.cpp(706): warning C4244: '=': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+e:\documents\school work\2019 - 2020\ゲーム開発\1106046 1年前期 ー 個人製作\2019 summer holiday work\main.cpp(720): warning C4244: '=': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+e:\documents\school work\2019 - 2020\ゲーム開発\1106046 1年前期 ー 個人製作\2019 summer holiday work\main.cpp(721): warning C4244: '=': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+e:\documents\school work\2019 - 2020\ゲーム開発\1106046 1年前期 ー 個人製作\2019 summer holiday work\main.cpp(739): warning C4244: '引数': 'LONG' から 'float' への変換です。データが失われる可能性があります。
+e:\documents\school work\2019 - 2020\ゲーム開発\1106046 1年前期 ー 個人製作\2019 summer holiday work\main.cpp(776): warning C4244: '引数': 'LONG' から 'float' への変換です。データが失われる可能性があります。
+e:\documents\school work\2019 - 2020\ゲーム開発\1106046 1年前期 ー 個人製作\2019 summer holiday work\main.cpp(795): warning C4838: 'double' から 'LONG' への変換には縮小変換が必要です
+e:\documents\school work\2019 - 2020\ゲーム開発\1106046 1年前期 ー 個人製作\2019 summer holiday work\main.cpp(795): warning C4244: '初期化中': 'double' から 'LONG' への変換です。データが失われる可能性があります。
+  スケルトンプログラム.vcxproj -> E:\Documents\School Work\2019 - 2020\ゲーム開発\1106046 1年前期 ー 個人製作\2019 Summer Holiday Work\Debug\スケルトンプログラム.exe
